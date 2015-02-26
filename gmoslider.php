@@ -4,7 +4,7 @@
  * Plugin URI:  
  * Description: GMO Slider plugin let you insert sliders in posts and pages. The control screen is simple, for anyone to easily use. GMO Slider supports images as well as text and video.
  * Version:     1.1
- * Author:      WP Shop byGMO
+ * Author:      GMO WP Cloud
  * Author URI:  https://www.wpcloud.jp/en/
  * License:     GPLv2
  * Text Domain: gmoslider
