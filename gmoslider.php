@@ -2,17 +2,17 @@
 /**
  * Plugin Name: GMO Slider
  * Plugin URI:  
- * Description: GMO Slider plugin gives cool effects to the slider in a snap. The control screen is simple, for anyone to easily use. Express user's originality with fully customizable link and color as well as 16 slider effects in 6 different layouts,
- * Version:     1.0
+ * Description: GMO Slider plugin let you insert sliders in posts and pages. The control screen is simple, for anyone to easily use. GMO Slider supports images as well as text and video.
+ * Version:     1.1
  * Author:      WP Shop byGMO
- * Author URI:  http://www.wpshop.com
+ * Author URI:  https://www.wpcloud.jp/en/
  * License:     GPLv2
  * Text Domain: gmoslider
  * Domain Path: /languages
  */
 
 /**
- * Copyright (c) 2014 WP Shop byGMO (http://www.wpshop.com)
+ * Copyright (c) 2015 GMO WP Cloud (https://www.wpcloud.jp/en/)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2 or, at

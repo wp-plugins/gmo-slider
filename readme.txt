@@ -1,18 +1,18 @@
 ﻿=== Plugin Name ===
 Plugin Name: GMO Slider
-Author: WP Shop byGMO
-Author URI: http://www.wpshop.com
+Author: GMO WP Cloud
+Author URI: https://www.wpcloud.jp/en/
 Contributors: Takeaki Nagashima
 Tags: Widget
 Requires at least: 3.8
-Tested up to: 4.0 
-Stable tag: Version 1.0 
+Tested up to: 4.1.1 
+Stable tag: Version 1.1 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-GMO Slider plugin gives cool effects to the slider in a snap. The control screen is simple, for anyone to easily use. 
+GMO Slider plugin let you insert sliders in posts and pages. The control screen is simple, for anyone to easily use. GMO Slider supports images as well as text and video.
 
 
 
@@ -25,6 +25,8 @@ From the WordPress admin page, simply activate the plugin, or upload a file from
 
 == Changelog == 
 
+= 1.1 =
+* Updated Author Profile
 
 = 1.0 =
 * Initial Release

@@ -177,10 +177,12 @@
 }
 
 .general-settings #gmoplugRight {
-	float: right;
-	width: 212px;
-	padding: 0 18px 15px;
-	border: 1px solid #ccc;
+	float:left;
+	width:246px;
+	margin: 20px 0 0 10px;
+	background:url(../images/wpcloud_bg.gif);
+	border:2px solid #c8c0ae;
+	color:#726851
 }
 
 .general-settings .wrap {
@@ -193,30 +195,14 @@
 	padding-right: 280px;
 }
 
-#gmoplugRight ul li.bnrlink {
-	text-align: right;
-	margin: 0 0 35px;
-}
+#gmoplugRight{background:url(../images/wpcloud_bg.gif);border:2px solid #c8c0ae;color:#726851}
+#gmoplugRight p.title{background-color:#c8c0ae;color:#726851;font-size:23px;font-weight:bold;margin:0;text-align:center;line-height:56px}
+#gmoplugRight div{padding:0 18px 54px}
+#gmoplugRight div h3{font-size:14px;font-weight:bold;color:#726851;padding:0;border:0;margin:23px 0 8px}
+#gmoplugRight div p{font-size:14px;line-height:20px;margin:5px 0 33px}
+#gmoplugRight div a.logo{display:block;text-align:center;padding:22px 0 0}
 
-#gmoplugRight ul li span {
-	display: inline-block;
-	width: 0; height: 0;
-	border-style: solid;
-	border-width: 5px 0 5px 8.7px;
-	padding: 0 6px 0 0;
-	border-color: transparent transparent transparent #427133;
-	line-height: 0px;
-	_border-color: #000000 #000000 #000000 #427133;
-	_filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
-}
 
-#gmoplugRight ul li a {
-	color: #427133;
-	text-decoration: none;
-	background: url(../images/ico_link.png) left center no-repeat;
-	padding: 0 0 0 15px;
-}
 
-#gmoplugRight .bnrlinkimage {
-	text-align: center;
-}
+
+
